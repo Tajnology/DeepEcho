@@ -30,4 +30,6 @@ Physical:
     - Input gain
     - Output gain
 
+Error in image below, there should be a dry block between the voices and sum.
+
 ![data flow for samples, voices and effects](effects.jpeg)
