@@ -14,3 +14,5 @@ Order of operations:
     - Pull blocks for any voice that has less than 2 * MIN blocks available
     - Process any sample that has less than 2 blocks in its output
     - 
+
+Could use a timer interrupt for playing the sum value and do everything else in a loop.

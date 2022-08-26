@@ -7,6 +7,7 @@ Physical:
     - Gain
     - Pan
     - Speed
+    - Width
     - Start
     - End
 - Sample options

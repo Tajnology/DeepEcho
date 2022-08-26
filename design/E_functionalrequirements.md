@@ -11,7 +11,11 @@ Should have:
 - Change voice parameters of each sample
 - Permanently assign effects to sample
 - Copy samples
+- Reverb and Delay
 
 Nice to have:
-- Update voice parameters in main memory without assigning
+- Update voice parameters in main memory without permanently assigning them
 - Variable sample length
+- Change voice parameters in real time
+- Master compressor
+- Resampling from the Sum bus
