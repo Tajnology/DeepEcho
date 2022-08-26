@@ -31,5 +31,17 @@ https://www.jaycar.com.au/3-pole-sealed-pcb-rotary/p/SR1214
 - Sample mode
 - Regular mode
 
+Rotary encoder for changing bank
+https://www.jaycar.com.au/2-pole-sealed-pcb-rotary/p/SR1212
+6 Banks
+
 Button for changing options:
-One shot / Gate, Loop
+https://www.jaycar.com.au/ip67-rated-illuminated-momentary-switch-red/p/SP0796
+One shot / Gate, Loop, Enable input, Enable output
+
+Knob for rotary encoders:
+https://www.jaycar.com.au/20mm-knob-black-plastic-aluminium-insert/p/HK7786
+
+Knob for fine tuning:
+https://www.jaycar.com.au/24mm-knob-matching-equipment-style/p/HK7764
+
