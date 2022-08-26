@@ -18,9 +18,17 @@ https://www.jaycar.com.au/lm358-low-power-dual-op-amp-linear-ic/p/ZL3358?pos=8&q
 Audio input socket:
 https://www.jaycar.com.au/3-5mm-stereo-switched-pcb-socket/p/PS0133?pos=1&queryId=4ee67a1de80626d4516e75cbaa030d39&sort=3.relevance
 
+Battery holder:
+https://www.jaycar.com.au/3-x-aa-side-by-side-flat-battery-holder/p/PH9274?pos=2&queryId=2d71b224768c8ee7125921ff4287a2c5
+
 Board for connecting components
 https://www.jaycar.com.au/universal-pre-punched-experimenters-board-small/p/HP9550
 https://www.jaycar.com.au/universal-pre-punched-experimenters-board-large/p/HP9554
 
-Motor for haptic feedback
+// Motor for haptic feedback
 https://www.altronics.com.au/p/ja0070-smd-motor-vibration-2.7v/
+
+// LED Driver
+https://www.jaycar.com.au/max7219-led-matrix-driver-ic/p/ZK8825?pos=1&queryId=8bb8b066305953f928fe7f162d2dcacb&sort=relevance
+
+I have enough pins for a 1:1 digital connection for all trigger buttons and LED drivers for the triggers.

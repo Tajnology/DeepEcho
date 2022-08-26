@@ -18,6 +18,9 @@ https://www.jaycar.com.au/1-pole-sealed-pcb-rotary/p/SR1210
 Trigger button for samples:
 https://www.jaycar.com.au/dpdt-illuminated-momentary-ip65-switch-red/p/SP0741
 
+Button for sample looping option:
+https://www.jaycar.com.au/dpdt-illuminated-momentary-pushbutton-ip65-green/p/SP0747?pos=10&queryId=9320a6d7f51f85e21d4f52ba5e67d0c1&sort=relevance
+
 Slider for coarse parameter adjustments:
 https://www.jaycar.com.au/duinotech-10k-ohm-slider-potentiometer-module/p/XC3734
 
@@ -44,4 +47,10 @@ https://www.jaycar.com.au/20mm-knob-black-plastic-aluminium-insert/p/HK7786
 
 Knob for fine tuning:
 https://www.jaycar.com.au/24mm-knob-matching-equipment-style/p/HK7764
+
+RGB LED for input signal:
+https://www.jaycar.com.au/arduino-compatible-rgb-led-module/p/XC4428?pos=9&queryId=651be49c1370c5da098f53a79b1afb79&sort=relevance
+
+Pushbutton for assign and clear:
+https://www.jaycar.com.au/pushbutton-push-off-n-c-spst-momentary-red-actuator/p/SP0717
 
