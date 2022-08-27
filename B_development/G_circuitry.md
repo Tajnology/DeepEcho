@@ -1,5 +1,5 @@
 Voltage Regulator:
-https://www.jaycar.com.au/voltage-regulator-lp2951acn/p/ZV1646?pos=3&queryId=d660c669b1f2f3481c46d3c2a7fe8ed6&sort=relevance
+https://www.jaycar.com.au/78l05-5v-100ma-voltage-regulator/p/ZV1539?pos=2&queryId=481d77a8f0e4f6eb49a291e9dd7cd5e6
 
 ![Main voltage regulator](vreg_main.jpg)
 
@@ -19,7 +19,7 @@ Audio input socket:
 https://www.jaycar.com.au/3-5mm-stereo-switched-pcb-socket/p/PS0133?pos=1&queryId=4ee67a1de80626d4516e75cbaa030d39&sort=3.relevance
 
 Battery holder:
-https://www.jaycar.com.au/3-x-aa-side-by-side-flat-battery-holder/p/PH9274?pos=2&queryId=2d71b224768c8ee7125921ff4287a2c5
+https://www.jaycar.com.au/6-x-aa-2-by-3-side-by-side-battery-holder/p/PH9206?pos=18&queryId=685d94bcffe19e61ffae0d85721c7590&sort=relevance
 
 Board for connecting components
 https://www.jaycar.com.au/universal-pre-punched-experimenters-board-small/p/HP9550
